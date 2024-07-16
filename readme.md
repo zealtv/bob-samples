@@ -1,6 +1,6 @@
 # bop_samplepack
 
-An open-source samplepack distributed with [bop](http://github.com/zealtv/bop) for Pure Data.
+An open source samplepack distributed with [bop](http://github.com/zealtv/bop) for Pure Data.
 
 ## Contributors
 
